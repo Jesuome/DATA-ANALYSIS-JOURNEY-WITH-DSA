@@ -24,7 +24,7 @@ This repository documents my learning journey in **Data Analysis** as part of th
  3. Learnt that arrays means a list of values
  4. The most fascinating lesson of the class was learning how to us **ALT= Function**. 
 
-**Excel Fuction 2 - Extraction Functions includes**
+**Excel Fuction 2**
   
  1. The Sister Functions of the functions learnt in the 2nd class ( AVERAGEIF, AVERAGEIFs, SUMIF, SUMIFs, COUNTIF, COUNTIFs E.t.c).
  2. Explored the Extraction Functions which are: FIND, MID, RIGHT, SEARCH Functions.
@@ -33,10 +33,11 @@ This repository documents my learning journey in **Data Analysis** as part of th
  5. My highlight for the class was the NESTING Function; using multiple function for one calculation in excel.
 
 #### Week 2:
-  1. IF OR & AND Functions
-  2. DATES Functions
-     a. Today
-     b. Now
-     c. Year
-     d. Month
-     e. Day e.t.c
+**Excel Function 3**
+  1. IF Functions: It is a fundamental logical function use to create a dynamic calculation based on a different outcome.
+  2. AND Function: It is a logical function that evaluates multiple conditions
+  3. OR Function: This is the opposite of the AND Function. The OR function is not strict like the AND Function, it is not neccessary for both condition to be met. If one icondition is met it will return true.
+
+
+**Excel Function 4**
+The DATES Functions - 
