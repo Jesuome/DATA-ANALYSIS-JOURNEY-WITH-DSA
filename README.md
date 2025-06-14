@@ -78,3 +78,7 @@ The second class of Pivot Table marked the final class on excel. we had a hands 
  5. Custom Formatting.
 
 Navigating Pivot Chart Analysis and Design brought out the beauty of Data Cleaning on Excel. 
+
+**SQL QUERY**
+
+Introduction to SQL, how to download and install SQL Query.
