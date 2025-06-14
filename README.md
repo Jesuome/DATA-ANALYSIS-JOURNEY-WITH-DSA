@@ -40,4 +40,41 @@ This repository documents my learning journey in **Data Analysis** as part of th
 
 
 **Excel Function 4**
-The DATES Functions - 
+
+The DATES Functions 
+ 1. The TODAY Function
+ 2. NOW Function
+ 3. YEAR Function
+ 4. MONTH Function
+ 5. DAY Function
+ 6. TEXT Function
+ 7. DATEDIF Function
+It Fascinating to know Excel sees dates as numbers and it begins counting from 1st January 1900
+
+**VLOOKUP**
+
+This consist of various lookup function which conisit of 
+1. VLOOKUP Function
+2. HLOOKUP Function
+3. XLOOKUP Function
+4. INDEX Function
+5. MATCH Function
+6. XMATCH Function etc.
+
+Cell Referencing: Relative Referencing, Absolute Referencing, Column Constant and Row Constant.
+
+#### Week 4:
+**Pivot Table**
+
+A Data summarization tool consisting of Filters, Column, Rows, Values. Data can be Qualitative (Categorical) and Quantitative (Numerical).
+
+The IF Function and the Pivot Table are very interesting. The IF Function is so versatile and the Pivot Table makes analysis easy. My favourite tool in Excel. 
+
+The second class of Pivot Table marked the final class on excel. we had a hands on pratical on:
+ 1. How to add the same column twice in a pivot table
+ 2. Switching from sum to average, % of Grand Total, minimum and more.
+ 3. Working with the layout group
+ 4. Creating the pivot chart with ease (ALT+F1)
+ 5. Custom Formatting.
+
+Navigating Pivot Chart Analysis and Design brought out the beauty of Data Cleaning on Excel. 
