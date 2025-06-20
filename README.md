@@ -10,19 +10,19 @@ This repository documents my learning journey in **Data Analysis** as part of th
 #### Week 1:
 **overview of Data Analysis**
 
-1. Data Generation
-2. The systems every organization runs on ( Operational and Analytical Systems)
-3. Data Storage (on premise and in the cloud).
-4. The different structures of data
-5. Data Analysis cycle; Ingestion - Transformation - Modeling - Visualization - Analysis - Presentation.  
+ Data Generation
+- The systems every organization runs on ( Operational and Analytical Systems)
+- Data Storage (on premise and in the cloud).
+- The different structures of data
+- Data Analysis cycle; Ingestion - Transformation - Modeling - Visualization - Analysis - Presentation.  
 
 **Introduction to Excel - Excel Function 1**
  
- Over view of the Ribbon interface, groups, tabs etc on Excel
- 1. The AVERAGE, SUM, COUNT, COUNTA, LARGE, MAX, MIN FUNCTIONS
- 2. THE Functional argument ( optional and mandatory argument)
- 3. Learnt that arrays means a list of values
- 4. The most fascinating lesson of the class was learning how to us **ALT= Function**. 
+Over view of the Ribbon interface, groups, tabs etc on Excel
+- The AVERAGE, SUM, COUNT, COUNTA, LARGE, MAX, MIN FUNCTIONS
+- THE Functional argument ( optional and mandatory argument)
+- Learnt that arrays means a list of values
+- The most fascinating lesson of the class was learning how to us **ALT= Function**. 
 
 **Excel Fuction 2**
   
@@ -34,9 +34,9 @@ This repository documents my learning journey in **Data Analysis** as part of th
 
 #### Week 2:
 **Excel Function 3**
-  1. IF Functions: It is a fundamental logical function use to create a dynamic calculation based on a different outcome.
-  2. AND Function: It is a logical function that evaluates multiple conditions
-  3. OR Function: This is the opposite of the AND Function. The OR function is not strict like the AND Function, it is not neccessary for both condition to be met. If one icondition is met it will return true.
+  - IF Functions: It is a fundamental logical function use to create a dynamic calculation based on a different outcome.
+  - AND Function: It is a logical function that evaluates multiple conditions
+  - OR Function: This is the opposite of the AND Function. The OR function is not strict like the AND Function, it is not neccessary for both condition to be met. If one icondition is met it will return true.
 
 
 **Excel Function 4**
@@ -63,7 +63,7 @@ This consist of various lookup function which conisit of
 
 Cell Referencing: Relative Referencing, Absolute Referencing, Column Constant and Row Constant.
 
-#### Week 4:
+#### Week 3:
 **Pivot Table**
 
 A Data summarization tool consisting of Filters, Column, Rows, Values. Data can be Qualitative (Categorical) and Quantitative (Numerical).
@@ -71,14 +71,73 @@ A Data summarization tool consisting of Filters, Column, Rows, Values. Data can 
 The IF Function and the Pivot Table are very interesting. The IF Function is so versatile and the Pivot Table makes analysis easy. My favourite tool in Excel. 
 
 The second class of Pivot Table marked the final class on excel. we had a hands on pratical on:
- 1. How to add the same column twice in a pivot table
- 2. Switching from sum to average, % of Grand Total, minimum and more.
- 3. Working with the layout group
- 4. Creating the pivot chart with ease (ALT+F1)
- 5. Custom Formatting.
+- How to add the same column twice in a pivot table
+- Switching from sum to average, % of Grand Total, minimum and more.
+- Working with the layout group
+- Creating the pivot chart with ease (ALT+F1)
+- Custom Formatting.
 
 Navigating Pivot Chart Analysis and Design brought out the beauty of Data Cleaning on Excel. 
 
-**SQL QUERY**
+**SQL QUERY (STRUCTURE QUERY LANGUAGE)**
 
 Introduction to SQL, how to download and install SQL Query.
+
+The different types of SQL:
+  1. PostgressSQL
+  2. MySQL
+  3. Oracle DB
+  4. SQLServer
+  5. SQLite Database.
+
+   
+#### WEEK 4:
+**Continuation on SQL**
+
+The **Second class** on SQL, It was a hands on class where we learnt:
+- SQL syntax and basic commands
+- Creating database and tables
+- Understanding Schemas (owners of database)
+- Using primary keys to uniquely identify data
+- Understanding SQL command and how and when to use then: INSERT, SELECT, CREATE.
+
+The **Third class** on SQL, we explored several powerful command and pratical skills which includes:
+  1. DROP, TRUNCATE, and DELETE; understanding when and how to use each command to removes data or tables
+  2. Importing CSV Files - We succesfully imported three different tables into our database.
+  3. Ccreating salary and payment tables; i learned how to use
+     1. IDENTITY ( to auto generate numbers)
+     2. DECIMAL ( for precise financial data)
+     3. BIGINT (for large integer values)
+ 4. ALTER command: This is used to modify existing tables or column. super ueful for correcting or updating your database structure.
+
+The **Fourth class** was a continuation of the 3rd class where we had a theory class on:
+- SQL commamd: ALTER, UPDATE
+- SQL Clause: understanding GROUP BY, ORDER BY, HAVING
+- Arithmetic operators, comparison operators and logical operators (Greater than > and Less than < signs); learning when and how to use them
+- Range Operators: BETWEEN and NOT BETWEEN
+- The use of DISTINCT.
+
+#### WEEK 5:
+**Continuation of SQL**
+
+This week was intensed into the learning. The **Fifth CLass** was a hands on class on 
+  1. SQL Clauses and Logival Operators (ALL, IN, AND, ANY, BETWEEN, etc.)
+  2. SQL Joins which includes RIGHT JOIN, LEFT JOIN, and FULL JOIN.
+  3. SQL set Operations: UNION, UNION ALL, INTERSECT
+  4. Understanding the difference between JOIN and UNION
+  5. Learning the aggregate functions of GROUP BY, ORDER BY
+
+The **Sixth Class** was an intensed class with series of learning
+
+- We started off with SQL JOin. We succesfully joined 3 tables in one query.
+- We also looked at Sub Queries; query inside query. understanding how we can use sub query to join two tables together.
+- We also did some Analysis on the Top £ highest paid Employee, Average Salary by Department.
+- We also looked at SQL View for a bit: A view is a reflection of a table. it is a virtual table that is created based on result set of a SQl query.
+
+The **Seventh Class**
+
+- This class focused on UNIOn and UNION ALL. we looked at the diiference between both of them.
+- We also had a pratical class on how to use UNION. where we import 3 different tables from Excel into our database and union them together to get one table
+- We did a view on the union table and also did some analysis using SQL Clause and Date analysis.
+
+#### WEEK 6:
