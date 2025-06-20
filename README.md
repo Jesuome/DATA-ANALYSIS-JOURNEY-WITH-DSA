@@ -141,3 +141,11 @@ The **Seventh Class**
 - We did a view on the union table and also did some analysis using SQL Clause and Date analysis.
 
 #### WEEK 6:
+This week wasintensed but fulfiling. we concluded SQl phase on Monday, We hadd a Portfolio Building Session on Wednessday where we explored Github, Created repositories, and understood how to showcase our work to future employers.
+
+**SQL Final class**
+
+This Session was very educative and interactive, We looked at a few things which are:
+- CASE WHEN Statements
+- Date functions:  i explored the power of DATEDIFF, MONTH(), and YEAR() functions,, learning the importance of proper parameter placement (especially with DATEDIFF, which requires three argument).
+- We also looked at Database Backup and Restore; where we did a pratical on how to properly restore a file and also backup one.
